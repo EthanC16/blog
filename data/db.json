@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Blah blah blah blah, blah blah blah.",
+      "author": "Bobby",
+      "id": "1"
+    },
+    {
+      "title": "Opening party",
+      "body": "Bee boo bee boo boo, bee bee.",
+      "author": "Blonkin",
+      "id": "2"
+    },
+    {
+      "id": "cfb5",
+      "title": "Friday",
+      "body": "Hello, today is Friday. ",
+      "author": "Yoshi"
+    },
+    {
+      "id": "7fcf",
+      "title": "Weekend",
+      "body": "It is nearly the weekend",
+      "author": "Mario"
+    },
+    {
+      "id": "57ec",
+      "title": "Rabbit",
+      "body": "I saw a rabbit chase a weasel. ",
+      "author": "Ethan"
+    }
+  ]
+}
